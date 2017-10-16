@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://SockPastaRock.github.io/hubpress.io",
+    "hubpress": "https://sockpastarock.github.io/hubpress.io",
+    "theme": "//SockPastaRock.github.io/hubpress.io/themes/casper",
+    "images": "https://SockPastaRock.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
