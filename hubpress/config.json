@@ -9,10 +9,10 @@
     "name": "ghostium"
   },
   "urls": {
-    "site": "https://SockPastaRock.github.io/blog.io",
-    "hubpress": "https://sockpastarock.github.io/blog.io",
-    "theme": "//SockPastaRock.github.io/blog.io/themes/ghostium",
-    "images": "https://SockPastaRock.github.io/blog.io/images"
+    "site": "https://SockPastaRock.github.io/hubpress.io",
+    "hubpress": "https://sockpastarock.github.io/hubpress.io",
+    "theme": "//SockPastaRock.github.io/hubpress.io/themes/ghostium",
+    "images": "https://SockPastaRock.github.io/hubpress.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
